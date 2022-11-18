@@ -16,4 +16,6 @@ The revelant notebooks to the paper are:
 - [MANRS_Conformance_Action1](https://github.com/CAIDA/MANRS_Data_Analysis/blob/master/MANRS_Conformance_Action1.ipynb)
 - [MANRS_Conformance_Action4](https://github.com/CAIDA/MANRS_Data_Analysis/blob/master/MANRS_Conformance_Action4.ipynb)
 
-### [MANRS_Conformance_Action1](https://github.com/CAIDA/MANRS_Data_Analysis/blob/master/MANRS_Conformance_Action1.ipynb)
+The notebooks are runnable as-is in the repository directory with provided data files. A list of MANRS networks that are **not conformant** to the corresponding actions will appear at the end of the notebooks. If you are using the `Table of Contents(2)` extensions, the revelant sections are highlighted.
+
+To look at the most recent conformance levels of MANRS networks, you can run the notebooks on more recent data. There are cell blocks with input file paths that can be replaced. They are marked with `#replace with new file`.
