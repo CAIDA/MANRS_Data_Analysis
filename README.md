@@ -19,3 +19,13 @@ The revelant notebooks to the paper are:
 The notebooks are runnable as-is in the repository directory with provided data files. A list of MANRS networks that are **not conformant** to the corresponding actions will appear at the end of the notebooks. If you are using the `Table of Contents(2)` extensions, the revelant sections are highlighted.
 
 To look at the most recent conformance levels of MANRS networks, you can run the notebooks on more recent data. There are cell blocks with input file paths that can be replaced. They are marked with `#replace with new file`.
+
+## Dataset
+The datasets used in the paper can be downloaded from sources below:
+- [MANRS Network Operators Program participants list](https://www.manrs.org/netops/participants/)
+- [MANRS Network Operators Program participants list](https://www.manrs.org/cdn-cloud-providers/participants/)
+- [Internet Health Report ROV](https://ihr.iijlab.net/ihr/en-us/rov) and [Data Archive](https://ihr-archive.iijlab.net/ihr/rov/)
+- [CAIDA AS Relationships Dataset](https://www.caida.org/catalog/datasets/as-relationships/)
+- [CAIDA AS Organizations Dataset](https://www.caida.org/catalog/datasets/as-organizations/)
+
+More detailed instructions and explanations can be found in the notebooks.
