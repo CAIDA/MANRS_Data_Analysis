@@ -1,0 +1,19 @@
+﻿Organization Name,ASNs,Action 1: Filtering,Action 2: Anti-spoofing,Action 3: Coordination,Action 4: Global Validation,Action 5: MANRS Adoption,Action 6: Tools
+Akamai Technologies,20940,Yes,Yes,Yes,IRR,Yes,No
+Azion Technologies,52580,Yes,Yes,Yes,IRR,Yes,No
+cloudscale.ch,59414,Yes,Yes,Yes,IRR,Yes,No
+GoCache,266444,Yes,Yes,Yes,IRR,Yes,No
+Hostmein IKE,50520,Yes;RPKI;AS-SET,Yes,Yes,IRR;RPKI,Yes,No
+Cloud Himalaya Pvt LTd,135337,Yes,Yes,Yes,IRR,Yes,No
+Equinix Metal,54825,Yes;RPKI;AS-SET,Yes,Yes,IRR;RPKI,Yes,No
+SYNAPSECOM TELECOMS S.A.,8280,Yes,Yes,Yes,IRR,Yes,No
+DigitalOcean,14061,Yes;RPKI;AS-SET,Yes,Yes,IRR,Yes,No
+Facebook,32934,Yes,Yes,Yes,IRR,Yes,Yes
+Microsoft,8075;8074,Yes;RPKI;AS-SET,Yes,Yes,IRR;RPKI,Yes,Yes
+Netflix,2906;40027;55095,Yes;RPKI,Yes,Yes,IRR;RPKI,Yes,Yes
+Cloudflare,13335,Yes,Yes,Yes,IRR,Yes,Yes
+Amazon Web Services,16509,Yes;RPKI;AS-SET,Yes,Yes,IRR;RPKI,Yes,No
+Biznet Gio,133800,Yes,Yes,Yes,IRR,Yes,Yes
+Google LLC,15169,Yes,Yes,Yes,IRR,Yes,Yes
+Verisign,7342,Yes,Yes,Yes,IRR,Yes,No
+Vultr,20473,Yes;RPKI;AS-SET,Yes,Yes,IRR;RPKI,Yes,No
