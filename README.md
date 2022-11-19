@@ -1,6 +1,6 @@
 # MANRS_Data_Analysis
 
-This repo contains analysis code used in the paper [Mind Your MANRS: Measuring the MANRS Ecosystem](https://www.caida.org/catalog/papers/2022_mind_your_manrs/mind_your_manrs.pdf) from IMC 2022. The analysis code provides certain details that were obscured in the paper.
+This repo contains analysis code used in the paper [Mind Your MANRS: Measuring the MANRS Ecosystem](https://www.caida.org/catalog/papers/2022_mind_your_manrs/mind_your_manrs.pdf) from IMC 2022. The analysis code provides certain details that were not in the paper.
 
 [MANRS - Mutually Agreed Norms on Routing Security](https://www.manrs.org/)
 - [MANRS Actions for Network Operators](https://www.manrs.org/netops/network-operator-actions/)
